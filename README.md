@@ -1,1 +1,1 @@
-# NAHomework
+# Numerical Algorithms Homework Assignments
